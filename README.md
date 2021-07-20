@@ -1,5 +1,6 @@
 # Campirit-Website, 창업경진대회용 웹사이트
-![campirit](https://user-images.githubusercontent.com/65525866/126276148-d8e8fe29-4191-45b1-8f45-39ed1c4afe10.png)
+![campirit](https://user-images.githubusercontent.com/65525866/126346191-657cb695-0326-4aa7-9f3b-beb61bca70a4.png)
+
 ## 지원 목록
 >웹사이트 로그인/로그아웃
 
