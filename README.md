@@ -17,7 +17,8 @@
 ## 웹사이트
 
 - Heroku와 아마존 S3, RWS를 이용하여 구현함
-https://campirit.herokuapp.com/#/
+- ~~https://campirit.herokuapp.com/#/~~
+- 현재 가동 중지됨
 
 ## WorkFlow
 전체적인 구조
